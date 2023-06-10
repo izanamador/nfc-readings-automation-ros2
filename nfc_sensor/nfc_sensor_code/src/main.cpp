@@ -1,3 +1,4 @@
+#include <Arduino.h>
 #if 0
 #include <SPI.h>
 #include <PN532_SPI.h>
